@@ -1,7 +1,6 @@
 from torleechbot.sample_config import Config
 
 class Config(Config):  
-    
 TG_BOT_TOKEN = "1440339475:AAFPffzsysWSV5JIamyAGeuKCm983e-qScY"
 # The Telegram API things
 APP_ID = 1383845
